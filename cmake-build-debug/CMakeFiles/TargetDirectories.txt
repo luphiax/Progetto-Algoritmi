@@ -1,0 +1,3 @@
+C:/Users/Luigi/Desktop/Progetto Algoritmi/cmake-build-debug/CMakeFiles/Progetto_Algoritmi.dir
+C:/Users/Luigi/Desktop/Progetto Algoritmi/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Luigi/Desktop/Progetto Algoritmi/cmake-build-debug/CMakeFiles/rebuild_cache.dir
